@@ -1,0 +1,74 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f0f0; /* Cor de fundo da página */
+}
+
+header {
+    background-color: #333; /* Cor de fundo da barra de menu */
+    padding: 20px 0; /* Espaçamento interno */
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    transition: color 0.3s ease; /* Efeito de transição suave para a cor do texto */
+}
+
+nav a:hover {
+    color: #66c2ff; /* Cor ao passar o mouse sobre os links */
+}
+
+#maturidade-digital {
+    text-align: center;
+    padding: 50px;
+}
+
+#maturidade-digital h1 {
+    color: #333; /* Cor do título */
+}
+
+#maturidade-digital p {
+    color: #666; /* Cor do texto */
+}
+
+a {
+    color: #007bff; /* Cor padrão dos links */
+    text-decoration: none;
+    transition: color 0.3s ease; /* Efeito de transição suave para a cor do texto */
+}
+
+a:hover {
+    color: #004080; /* Cor ao passar o mouse sobre os links */
+}
+
+button {
+    background-color: #007bff; /* Cor de fundo do botão */
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Efeito de transição suave para a cor de fundo */
+}
+
+button:hover {
+    background-color: #004080; /* Cor de fundo ao passar o mouse sobre o botão */
+}
