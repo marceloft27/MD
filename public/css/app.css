@@ -280,6 +280,16 @@ p {
     font-family: 'Nunito Sans', sans-serif;
 }
 
+.texto-maturidade49 {
+    color: #ffffff;
+    font-size: 18px;
+    max-width: 800px;
+    margin-top: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+
+
 .overlay2 h3 span.titulo2-maturidade,
 .overlay3 h3 span.titulo2-maturidade {
     color: #ac78ff;

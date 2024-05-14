@@ -33,6 +33,9 @@
                 Nosso formulário proporciona uma análise aprofundada do nível de maturidade digital de sua empresa. Respondendo a perguntas criteriosas, obterá uma avaliação precisa da posição digital atual. Esta ferramenta pode ser instrumental na identificação de áreas de melhoria, orientando estratégias para aprimoramento tecnológico, segurança cibernética e eficiência operacional. Este processo oferece uma base objetiva para a evolução digital organizacional. Inicie a avaliação agora.
             </p>
             <a href="{{ route('forms.show') }}" class="botao-teste">Preencha o formulário</a>
+            <p class="texto-maturidade49">
+                Esta ferramenta foi elaborada com apoio da Fundação de Amparo à Pesquisa de Minas Gerais (FAPEMIG), por meio do financiamento do projeto APQ 01828-21.
+            </p>
             </section>
     </div>
 </body>
